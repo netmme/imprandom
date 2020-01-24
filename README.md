@@ -1,2 +1,4 @@
-# imprandom
-Random fonctions for python using urandom.
+# Imprandom
+## Improve-Random
+
+Random fonctions for python, using urandom.
